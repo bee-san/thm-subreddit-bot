@@ -6,7 +6,7 @@ TryHackMe Subreddit Bot
 
 ***Description:***
 
-​A bot created for usage on the TryHackMe subreddit.
+​A bot created for usage on the TryHackMe subreddit, which can be found at https://reddit.com/r/tryhackme
 
 
 ***Related Hosting Links***
